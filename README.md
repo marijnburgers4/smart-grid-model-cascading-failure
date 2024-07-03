@@ -1,7 +1,7 @@
 
 
 ## **1. Introduction**:
-For my Master Thesis at TU Delft (faculty of Technology, Policy & Management, programme: Complex Systems Engineering & Management) I analysed cascading failures initialised in the communication network. I developed an interdependent communication network and power grid. The communication network is created using NetworkX library and pandapower is used to create the power grid.
+For my Master Thesis at TU Delft (faculty of Technology, Policy & Management, programme: Complex Systems Engineering & Management) I analysed cascading failures initialised in the communication network. I developed an interdependent communication network and power grid (a smart grid). The communication network is created using NetworkX library and pandapower is used to create the power grid.
 
 ## **2. The model**:
    A brief overview of the steps of the smart grid model failure simulation:
